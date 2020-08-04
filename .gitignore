@@ -1,5 +1,9 @@
 # Compiled class file
-*.class
+#*.class
+
+#properties
+private.properties
+private.xml
 
 # Log file
 *.log
