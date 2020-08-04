@@ -5,6 +5,8 @@
  */
 package lineascodigo1;
 
+import vista.VentanaPrincipal;
+
 /**
  *
  * @author robin
@@ -15,7 +17,8 @@ public class LineasCodigo1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        VentanaPrincipal ven = new VentanaPrincipal();
+        ven.show();
     }
     
 }
